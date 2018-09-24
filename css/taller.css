@@ -1,0 +1,31 @@
+body{
+	background-image: url('../img/fondo.jpeg');
+	background-repeat: repeat;
+	font-size: 45px;
+}
+input{
+	background: white;
+	padding: 10px;
+	margin: 5px;
+	color: white;
+	display: flex;
+	
+}
+
+li{
+	color: black;
+	float: ;
+	justify-content: left;
+list-style: none;
+	
+}
+.cuenta>li>ul>li{
+	float: left ;
+	padding: 25px 25px;
+
+}
+.cuenta{
+	border: 1px solid black;
+	width: 50%;
+	height: 250px;
+}
